@@ -1,0 +1,48 @@
+html {
+  font-family: Helvetica;
+}
+
+h1 {
+  font-family:Helvetica;
+  font-size:100px;
+  font-weight:bold;
+  text-align:center;
+  color:khaki;
+  background-image:url(file:///C:/Projects/dasmotos%20arts/resources/images/pattern.jpeg)
+}
+#brushes {
+font-family:Helvetica;
+font-size:32px;
+font-weight:bold;
+color:white;
+background-color:mediumspringgreen;
+}
+#brushcontent {
+font-family:helvetica;
+}
+#brushcontent > span{
+color:blue;
+font-weight:bold;
+}
+#frames {
+  font-family:Helvetica;
+  font-size:32px;
+  font-weight:bold;
+  color:white;
+  background-color:lightcoral;
+}
+#framescontent > span{
+  color:blue;
+  font-weight:bold;
+}
+#paint {
+  font-family:Helvetica;
+  font-size:32px;
+  font-weight:bold;
+  color:white;
+  background-color:skyblue;
+}
+#paintcontent > span {
+  color:blue;
+  font-weight:bold;
+}
